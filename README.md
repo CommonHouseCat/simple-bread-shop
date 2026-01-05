@@ -1,2 +1,2 @@
-# CT214H-Web-Development
-This is a course project 
+# This is a final project for CTU course CT214H (Web-Development)
+
